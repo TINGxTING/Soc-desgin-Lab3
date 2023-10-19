@@ -13,10 +13,10 @@
 
 • Waveform – show
 
-• Configuration write
+------Configuration write
 
-• ap_start, ap_done ( measure # of clock cycles from ap_start to ap_done)
+------ap_start, ap_done ( measure # of clock cycles from ap_start to ap_done)
 
-• Xn stream-in, and Yn stream-out
+------- Xn stream-in, and Yn stream-out
 
 • Report
